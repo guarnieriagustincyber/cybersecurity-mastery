@@ -21,7 +21,7 @@
 
 | Certificación | Proveedor | Progreso | Fecha Objetivo | Estado |
 |---------------|-----------|----------|----------------|--------|
-| **Cisco Intro to Cybersecurity** | Cisco | 🔄 80% (4/5 módulos) | Mar 2026 | Casi completo |
+| **Cisco Intro to Cybersecurity** | Cisco | ✅ 100%  | Mar 2026 | ✅ completo |
 | **Cisco Basic Network Concepts** | Cisco | 🔄 24% (4/17 módulos) | Abr 2026 | En curso |
 | **Linux Essentials** | LPI/Cisco | ⬜ 0% | May 2026 | Pendiente |
 | **Cisco Ethical Hacker** | Cisco | ⬜ 0% | Jun 2026 | Pendiente |
@@ -60,17 +60,17 @@
 
 ## 🗓️ CRONOGRAMA 
 
-| Mes | Fase | Enfoque Principal | Certificaciones | Entregables |
-|-----|------|-------------------|-----------------|-------------|
-| **Mar** | Fase 0-1 | Laboratorio + Módulo 1 | Cisco Intro Cyber (80%) | 00-environment + Ej 1.1-1.3 |
-| **Abr** | Fase 1 | Módulo 2 (Capa 2) | Cisco Networks (4/17) + Linux Essentials | Ej 2.1-2.8 + 4 PCAPs |
-| **May** | Fase 1 | Módulo 3 (Capa 3) | Fortinet NSE 1-3 | Ej 3.1-3.8 + 3 PCAPs |
-| **Jun** | Fase 2 | Módulo 4 (Capa 4) | Cisco Ethical Hacker | Ej 4.1-4.4 + 3 PCAPs |
-| **Jul** | Fase 2 | Módulo 4.5 (Tráfico) | Helsinki Python ✅ | 1 herramienta + 3 PCAPs |
-| **Ago** | Fase 2 | Módulo 5-6 (App + Blue) | ISC2 CC + Helsinki CyberSec | 2 herramientas + 3 PCAPs |
-| **Sep** | Fase 3 | Freelance Setup | Security+ (prep) | 10 servicios documentados |
-| **Oct** | Fase 3 | Freelance Activo | Security+ ✅ | 2-3 gigs completados |
-| **Nov** | Fase 3 | Consolidación | eJPT (prep) | $500-1500 USD/mes |
+| Mes | Fase | Enfoque Principal | Certificaciones |
+|-----|------|-------------------|-----------------|
+| **Mar** | Fase 0-1 | Laboratorio + Módulo 1 | Cisco Intro Cyber (100%) | 
+| **Abr** | Fase 1 | Módulo 2 (Capa 2) | Cisco Networks (4/17) + Linux Essentials |
+| **May** | Fase 1 | Módulo 3 (Capa 3) | Fortinet NSE 1-3 | 
+| **Jun** | Fase 2 | Módulo 4 (Capa 4) | Cisco Ethical Hacker | 
+| **Jul** | Fase 2 | Módulo 4.5 (Tráfico) | Helsinki Python  | 
+| **Ago** | Fase 2 | Módulo 5-6 (App + Blue) | ISC2 CC + Helsinki CyberSec | 
+| **Sep** | Fase 3 | Freelance Setup | Security+ (prep) | 
+| **Oct** | Fase 3 | Freelance Activo | Security+ | 
+| **Nov** | Fase 3 | Consolidación | eJPT (prep) | 
 
 ---
 
@@ -118,33 +118,6 @@
 
 ---
 
-## ✅ MÉTRICAS DE ÉXITO 
-### Fundamentos
-- [ ] 6 Módulos del Plan Maestro completados
-- [ ] 60+ ejercicios Python en GitHub
-- [ ] 15+ PCAPs documentados y analizados
-- [ ] 3+ herramientas originales funcionales
-
-### Certificaciones
-- [ ] 7-8 certificaciones completadas
-- [ ] Badges documentados en GitHub
-- [ ] Security+ (completo o en proceso)
-
-### Freelance
-- [ ] 10 servicios de red documentados
-- [ ] Perfiles Workana/Fiverr/Upwork activos
-- [ ] 5+ gigs completados (o 1 empleo junior)
-- [ ] 2-3 clientes recurrentes
-
-### Portafolio
-- [ ] GitHub público y limpio
-- [ ] README principal actualizado
-- [ ] 100+ commits totales
-
-
-### Habilidades Adicionales 
-- [ ] Android Security Básico
----
 
 ## 📚 RECURSOS PRINCIPALES
 
