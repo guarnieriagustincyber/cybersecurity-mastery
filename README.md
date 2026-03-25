@@ -45,13 +45,24 @@
 
 | Certificación | Progreso | Tipo | Fecha Objetivo |
 |---------------|----------|------|----------------|
-| Cisco Intro to Cybersecurity | 🔄 80% | Logros (4/5 módulos) | Abr 2026 |
-| Cisco Basic Network Concepts | 🔄 24% | Logros (4/17 módulos) | Abr 2026 |
+| Cisco Intro to Cybersecurity | 🔄 80% | Logros (4/5) | Abr 2026 |
+| Cisco Basic Network Concepts | 🔄 24% | Logros (4/17) | Abr 2026 |
 | Cisco Ethical Hacker | ⬜ 0% | No iniciado | Jun 2026 |
+| **Helsinki Python MOOC** | ⬜ 0% | 14 partes | May 2026 |
+| **Helsinki Cyber Security MOOC** | ⬜ 0% | 12 partes | Jun 2026 |
 | Linux Essentials | ⬜ 0% | Examen externo | May 2026 |
 | Fortinet NSE 1-3 | ⬜ 0% | Logros online | Jun 2026 |
 | ISC2 CC | ⬜ 0% | Examen externo | Ago 2026 |
+| OWASP MASVS/MASTG | ⬜ 0% | Checklist | Oct 2026 |
 
+## 📈 Progreso por Categoría
+
+| Categoría | Cursos | Completados | En Progreso |
+|-----------|--------|-------------|-------------|
+| Python | 1 | 0 | 1 (Helsinki) |
+| CyberSecurity | 4 | 0 | 4 (Helsinki, Cisco, Fortinet, ISC2) |
+| Networking | 2 | 0 | 2 (Cisco, Plan Maestro) |
+| Android | 2 | 0 | 0 |
 ---
 
 ## 🛠️ Laboratorio
