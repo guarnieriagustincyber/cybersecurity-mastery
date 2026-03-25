@@ -45,7 +45,7 @@
 
 | Certificación | Estado | Fecha Objetivo |
 |---------------|--------|----------------|
-| Cisco Security Analyst (Principiante) | ⏳ Iniciado| Abr 2026 |
+| Cisco Security Analyst (Principiante) | Iniciado| Abr 2026 |
 | Linux Essentials | Iniciado | Abr 2026 |
 | Fortinet NSE 1-3 | ⏳ Pendiente | May 2026 |
 | Helsinki Cyber Security | ⬜ Pendiente | Ago 2026 |
