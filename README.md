@@ -37,7 +37,7 @@
 | `06-blue-team/` | Módulo 6 (Semanas 19-21) |
 | `certifications/` | Evidencia de certificaciones |
 | `android-security/` | Fase 3 - Especialización |
-| `progress/` | Tracking semanal |
+
 
 ---
 
