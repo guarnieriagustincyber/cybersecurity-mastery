@@ -41,16 +41,16 @@
 
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certificaciones en Progreso
 
-| Certificación | Estado | Fecha Objetivo |
-|---------------|--------|----------------|
-| Cisco Security Analyst (Principiante) | Iniciado| Abr 2026 |
-| Linux Essentials | Iniciado | Abr 2026 |
-| Fortinet NSE 1-3 | ⏳ Pendiente | May 2026 |
-| Helsinki Cyber Security | ⬜ Pendiente | Ago 2026 |
-| ISC2 CC | ⬜ Pendiente | Ago 2026 |
-| OWASP MASVS/MASTG | ⬜ Pendiente | Oct 2026 |
+| Certificación | Progreso | Tipo | Fecha Objetivo |
+|---------------|----------|------|----------------|
+| Cisco Intro to Cybersecurity | 🔄 80% | Logros (4/5 módulos) | Abr 2026 |
+| Cisco Basic Network Concepts | 🔄 24% | Logros (4/17 módulos) | Abr 2026 |
+| Cisco Ethical Hacker | ⬜ 0% | No iniciado | Jun 2026 |
+| Linux Essentials | ⬜ 0% | Examen externo | May 2026 |
+| Fortinet NSE 1-3 | ⬜ 0% | Logros online | Jun 2026 |
+| ISC2 CC | ⬜ 0% | Examen externo | Ago 2026 |
 
 ---
 
@@ -76,6 +76,16 @@
 | Labs completados | 1 | 16+ |
 
 ---
+
+## 📊 Evidencia Disponible
+
+| Tipo | Cantidad | Ubicación |
+|------|----------|-----------|
+| Logros Cisco | 4 | `certifications/cisco/` |
+| Certificados PDF | 0 | Pendiente |
+| Badges Credly | 0 | Pendiente |
+| Ejercicios Python | 0 | `01-fundamentals/exercises/` |
+| PCAPs Documentados | 1 | `02-layer2/labs/` |
 
 ## ⚠️ Ética
 
