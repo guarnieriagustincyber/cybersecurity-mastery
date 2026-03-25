@@ -8,13 +8,18 @@
 
 ---
 
-## 📊 Progreso General
+## 📊 Progreso Actualizado
 
-| Fase | Estado | Progreso |
-|------|--------|----------|
-| Fase 1: Fundamentos | 🔄 En curso | 0% |
-| Fase 2: Validación | ⬜ Pendiente | 0% |
-| Fase 3: Especialización | ⬜ Pendiente | 0% |
+| Módulo | Estado | Progreso | Última Actualización |
+|--------|--------|----------|---------------------|
+| 00 - Environment | ✅ | 100% | 2026-03-25 |
+| 01 - Fundamentals | 🔄 | 0% | En progreso |
+| 02 - Layer 2 | ⬜ | 0% | Pendiente |
+| 03 - Layer 3 | ⬜ | 0% | Pendiente |
+| 04 - Layer 4 | ⬜ | 0% | Pendiente |
+| 04.5 - Traffic Analysis | ⬜ | 0% | Pendiente |
+| 05 - Application | ⬜ | 0% | Pendiente |
+| 06 - Blue Team | ⬜ | 0% | Pendiente |
 
 ---
 
@@ -36,14 +41,13 @@
 
 ---
 
-## 🎓 Certificaciones en Progreso
+## 🎓 Certificaciones
 
 | Certificación | Estado | Fecha Objetivo |
 |---------------|--------|----------------|
-| Cisco Security Analyst (Principiante) | ⬜ Pendiente | Abr 2026 |
-| Linux Essentials | ⬜ Pendiente | Abr 2026 |
-| Cisco Security Analyst (Intermedio) | ⬜ Pendiente | Jul 2026 |
-| Fortinet NSE 1-3 | ⬜ Pendiente | Jun 2026 |
+| Cisco Security Analyst (Principiante) | ⏳ Iniciado| Abr 2026 |
+| Linux Essentials | Iniciado | Abr 2026 |
+| Fortinet NSE 1-3 | ⏳ Pendiente | May 2026 |
 | Helsinki Cyber Security | ⬜ Pendiente | Ago 2026 |
 | ISC2 CC | ⬜ Pendiente | Ago 2026 |
 | OWASP MASVS/MASTG | ⬜ Pendiente | Oct 2026 |
