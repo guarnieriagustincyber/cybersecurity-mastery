@@ -69,7 +69,7 @@
 
 | Métrica | Actual | Objetivo |
 |---------|--------|----------|
-| Ejercicios Python | 0 | 50+ |
+| Ejercicios Python | 1 | 50+ |
 | PCAPs documentados | 0 | 10+ |
 | Herramientas originales | 0 | 3+ |
 | Certificaciones | 0 | 7-8 |
